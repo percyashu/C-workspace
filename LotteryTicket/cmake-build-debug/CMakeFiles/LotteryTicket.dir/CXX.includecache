@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/percy-ashu/CLionProjects/LotteryTicket/main.cpp
+iostream
+-
+ctime
+/home/percy-ashu/CLionProjects/LotteryTicket/ctime
+cstdlib
+/home/percy-ashu/CLionProjects/LotteryTicket/cstdlib
+

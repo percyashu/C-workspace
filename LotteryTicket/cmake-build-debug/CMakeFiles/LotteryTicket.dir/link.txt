@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LotteryTicket.dir/main.cpp.o  -o LotteryTicket 

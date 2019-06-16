@@ -1,0 +1,3 @@
+/home/percy-ashu/CLionProjects/LotteryTicket/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/percy-ashu/CLionProjects/LotteryTicket/cmake-build-debug/CMakeFiles/LotteryTicket.dir
+/home/percy-ashu/CLionProjects/LotteryTicket/cmake-build-debug/CMakeFiles/edit_cache.dir

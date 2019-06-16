@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/subQuiz.dir/main.cpp.o  -o subQuiz 

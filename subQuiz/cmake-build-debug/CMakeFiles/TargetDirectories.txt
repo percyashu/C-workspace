@@ -1,0 +1,3 @@
+/home/percy-ashu/CLionProjects/subQuiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/percy-ashu/CLionProjects/subQuiz/cmake-build-debug/CMakeFiles/subQuiz.dir
+/home/percy-ashu/CLionProjects/subQuiz/cmake-build-debug/CMakeFiles/edit_cache.dir

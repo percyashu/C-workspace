@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/percy-ashu/CLionProjects/subQuiz/main.cpp
+iostream
+/home/percy-ashu/CLionProjects/subQuiz/iostream
+ctime
+/home/percy-ashu/CLionProjects/subQuiz/ctime
+cstdlib
+/home/percy-ashu/CLionProjects/subQuiz/cstdlib
+
